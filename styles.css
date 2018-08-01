@@ -299,7 +299,7 @@ h4 {
 }
 
 .discover {
-  display: inline-block;
+  float: left;
   width: 20%;
   height: 250px;
   vertical-align: middle;
@@ -307,7 +307,7 @@ h4 {
 }
 
 .build {
-  display: inline-block;
+  float:left;
   width: 20%;
   height: 250px;
   margin: 0  19% 0 0;;
